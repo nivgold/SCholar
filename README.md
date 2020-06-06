@@ -15,7 +15,13 @@ in order to use SCholar, run the SCholar.py script with the name of the author y
 `$ python Scholar.py "[author-name]"`
 
 ### Example
-
+```
+$ python SCholar.py "[author-name]"
+Found: author-name
+Number of publications: 215
+Number of citations: 7391
+CP ratio (citations/publications): 34.38
+```
 
 
 ##### References
