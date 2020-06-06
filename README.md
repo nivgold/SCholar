@@ -4,4 +4,9 @@
 
 # SCholar
 
-SCholar let's one search for specific 
+SCholar let's one search for specific
+
+# References
+---
+scholarly: 
+![scholarly](https://pypi.org/project/scholarly/ "scholarly)
