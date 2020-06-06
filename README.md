@@ -8,7 +8,13 @@ SCholar let's one search for specific author and get:
 * Number of citations
 * His Picture from google scholar
 
-# References
+## Usage
+---
+in order to use SCholar, run the SCholar.py script with the name of the author you want to get his information.
+
+`$ python Scholar.py "[author-name]"`
+
+## References
 ---
 scholarly: 
 ![alt text](https://img.shields.io/badge/reference-scholarly-informational "scholarly")
