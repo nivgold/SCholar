@@ -4,7 +4,11 @@
 
 # SCholar
 
-SCholar let's one search for specific
+SCholar let's one search for specific author and get:
+
+* Number of publications
+* Number of citations
+* His Picture from google scholar
 
 # References
 ---
