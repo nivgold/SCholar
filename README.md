@@ -9,4 +9,4 @@ SCholar let's one search for specific
 # References
 ---
 scholarly: 
-![scholarly](https://pypi.org/project/scholarly/ "scholarly)
+![alt text](https://img.shields.io/badge/reference-scholarly-informational "scholarly)
