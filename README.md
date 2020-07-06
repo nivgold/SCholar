@@ -24,6 +24,8 @@ CP ratio (citations/publications): 34.38
 ```
 
 
-##### References
+##### Dependencies
 ---
-scholarly: https://pypi.org/project/scholarly/ 
+* scholarly: https://pypi.org/project/scholarly/ 
+
+* Pillow: https://pillow.readthedocs.io/en/stable/
